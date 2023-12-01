@@ -1,7 +1,5 @@
 # Bem vindo ao projeto
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/87b84780-d9c0-4cdd-b969-7e60deb74b8d/deploy-status)](https://app.netlify.com/sites/escritoteste/deploys)
-
 Esse repositório é dedicado a um teste técnico para a [Escribo](https://escribo.com/). Está uma empresa voltada para a educação infantil com jogos pedagógicos, altamente estimulantes para o amadurecimento da educação.
 Fiquei muito contente com o contato sobre a vaga de Flutter Iniciante e espero que fiquem satisfeitos com meu primeiro teste.
 
