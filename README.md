@@ -15,7 +15,6 @@ Desenvolvi uma rápida aplicação com HTML, CSS e JavaScript para poder apresen
 ![Tablet.](teste-tecnico1/src/assets/tablet.png "Tablet")
 ##  
 ![Desktop/Notebook.](teste-tecnico1/src/assets/desktop.png "Desktop/Notebook") 
-#  
 Nessas screenshots, você poderá ver exemplos com o número 50.
 
 ## Chegou a melhor parte !!!
