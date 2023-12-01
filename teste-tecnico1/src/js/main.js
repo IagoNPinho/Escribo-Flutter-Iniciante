@@ -49,7 +49,7 @@ function somar(valor) {
 }
 
 function exibirDivisiveis(numeros) {
-  console.clear;
+  console.clear();
   numeros.map(function (e) {
     console.log(e);
     const newLi = `<li>${e}</li>`;
